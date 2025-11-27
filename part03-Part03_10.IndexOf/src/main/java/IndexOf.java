@@ -25,15 +25,13 @@ public class IndexOf {
         // implement here finding the indices of a number
         
         // Iterate with a for loop through the list
-        // and if the number is the same as search, assign it to search
-        // and break out of the loop
+        // and if the number is the same as search,
+        // assign i to index and print the desired output
         for (int i = 0; i < list.size(); i++) {
             if (search == list.get(i)) {
                 index = i;
                 System.out.println("\n" + search + " is at index " + index);
             }
         }
-
-        // Output the finding
     }
 }
