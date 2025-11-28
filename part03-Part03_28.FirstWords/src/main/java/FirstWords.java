@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 public class FirstWords {
 
-    // This progamm only prints the first word of
-    // a given input, separated with a newline
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
