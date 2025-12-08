@@ -19,7 +19,7 @@ public class Product {
         this(name, location, 1);
     }
 
-    public Prouduct(String name, int weight) {
+    public Product(String name, int weight) {
         this(name, "shelf", weight);
     }
 
