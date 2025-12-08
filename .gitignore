@@ -1,0 +1,12 @@
+# Maven / Java build folders
+target/
+**/target/
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# TMC Plugin files
+.tmc.lock
+.tmc/
+**/.tmc/
