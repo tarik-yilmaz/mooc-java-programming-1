@@ -14,4 +14,7 @@ Questions are not written down, because I assume that the reader knows about the
 **Course link:**
 https://java-programming.mooc.fi/
 
+**Certification link:**
+https://certificates.mooc.fi/validate/cigoh40egyp
+
 **Note:** All solutions are my own - not a single use of AI/LLM.
