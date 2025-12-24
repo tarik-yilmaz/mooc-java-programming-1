@@ -9,6 +9,7 @@ The structure of this repository follows the same structure as the course.
 Questions are not written down, because I assume that the reader knows about the exercises.
  
 **Start date:** 2025/11/21
+
 **End date:** 2025/12/24
 
 **Course link:**
